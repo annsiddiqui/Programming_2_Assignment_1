@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MarkerMenu
+comment0.text=\n\ Add\ a\ brief\ description\ of\ the\ program\n\ \n\ @author\ \ Qurrat-al-Ain\ Siddiqui\n\ @instructor\ \ Yumol\n\ @date\ due\ February\ 2nd,\ 2018\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=char\ menu()
+comment2.text=\nPresents\ the\ menu\ options\ to\ the\ user\ in\ order\ to\ run\ the\ program.\n\n\ @returns\ the\ uppercase\ character\n\n
+numComments=3
